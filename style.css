@@ -1,9 +1,9 @@
 :root {
   --primary: #ffffff;
   --secondary: #aeebfc;
-  --tertiary: #3a849b;
-  --light-dark: #589ffc;
-  --dark: #0a0d8f;
+  --tertiary: #ffb3ff;
+  --light-dark:  #ffccff;
+  --dark: #ff00ff;
   --border-radius: .8rem;
 }
 
@@ -193,7 +193,7 @@ p {
   visibility: hidden;
 }
 .day{
-  background-color: cornflowerblue;
+  background-color: #8000ff;
   border-radius: 5px;
   margin-bottom: 10px;
   font-size: 16px;
